@@ -12,7 +12,7 @@ The tool for detecting gender in an image.
 
 This tool generate a csv file you can use to analyze the gender diversity in your content.
 
-[Open with Colab](https://colab.research.google.com/github/Nikkei/aijoproject/blob/main/insight-gender/insight_gender_share.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nikkei/aijoproject/blob/main/insight-gender/insight_gender_share.ipynb)
 
 * edit-gender
 
