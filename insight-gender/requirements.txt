@@ -1,4 +1,4 @@
 jupyter==1.0.0
 insightface==0.1.5
-mxnet==1.7.0.post1
+mxnet==1.9.1
 pandas==1.1.4
